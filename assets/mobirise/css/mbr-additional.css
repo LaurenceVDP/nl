@@ -1,17 +1,59 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
-#ext_menu-14 .mbr-brand__name {
-  font-size: 16px;
+#footer1-3 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 11px;
 }
-#ext_menu-14.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+
+
+
+
+
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
 }
-#ext_menu-14 .mbr-navbar__section {
-  background: #ffffff;
+#dropdown-menu-2btn-8 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
 }
-#ext_menu-14 .mbr-navbar__hamburger {
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
   color: #ffffff;
 }
-#ext_menu-14 .mbr-navbar__items a {
-  font-family: 'Oswald', sans-serif;
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
+}
+#contacts1-9 I {
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+  color: #000000;
+  text-align: right;
+}
+#contacts1-9 P {
+  font-family: 'Slabo 27px', serif;
+  font-size: 13px;
+  color: #000000;
+}
+#contacts1-9 SPAN {
+  color: #000000;
+}
+#footer1-3 P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 11px;
 }
