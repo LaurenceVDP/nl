@@ -1,15 +1,27 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
 
 #footer1-3 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
   font-size: 11px;
 }
+#content1-g P {
+  font-size: 12px;
+  font-family: 'Slabo 27px', serif;
+  color: #252525;
+}
 
 
 
 
 
+
+#header1-c .btn {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+}
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }

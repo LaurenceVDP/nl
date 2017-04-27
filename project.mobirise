@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -10,7 +10,7 @@
       "styling": {}
     },
     "favicon": "",
-    "uniqCompNum": 13,
+    "uniqCompNum": 19,
     "noImageResize": "true",
     "path": "@PROJECT_PATH@"
   },
@@ -23,7 +23,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -61,11 +61,19 @@
       "settings": {
         "title": "Site Maker Title",
         "meta_descr": "Site Maker Description",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "11px"
+            }
+          },
           "_anchor": "footer1-3",
           "_params": {
             "paddingTop": "4",
@@ -79,22 +87,62 @@
             "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/9-web-800x1089.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-web.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-web-1-800x1112.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-d",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "font-size": "12px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "11px"
+              "color": "#252525"
             }
-          }
+          },
+          "_anchor": "content1-g",
+          "text": "<p>Chloor op zwarte doeken&nbsp;</p>"
         }
       ]
     },
     "page2.html": {
       "settings": {
         "title": "Web Site Builder Title",
-        "meta_descr": "Web Site Builder Description"
+        "meta_descr": "Web Site Builder Description",
+        "order": 2
       },
       "components": [
         {
@@ -103,18 +151,25 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            }
+          },
           "_anchor": "header1-c",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mobirise.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "right",
+            "contentAlign": "center",
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -125,7 +180,7 @@
           },
           "title": "FULL-SCREEN HEADER",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Textiel</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tekeningen</a>"
         },
         {
           "_inherit": "dropdown-menu",
@@ -184,13 +239,31 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "I": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px",
+              "color": "#000000",
+              "text-align": "right"
+            },
+            "P": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "13px",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts1-9",
           "_params": {
             "paddingTop": "4",
@@ -223,31 +296,21 @@
           },
           "text1": "<i>&nbsp;</i>",
           "text2": "<span style=\"font-size: 13px;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;L</span><span style=\"font-size: 13px; line-height: 1.7em;\">aurencevdp8@hotmail.com<br></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Belgium 2017",
-          "text3": "<ul class=\"mbr-contacts__list\"></ul>",
-          "_styles": {
-            "I": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "13px",
-              "color": "#000000",
-              "text-align": "right"
-            },
-            "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "13px",
-              "color": "#000000"
-            },
-            "SPAN": {
-              "color": "#000000"
-            }
-          }
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "11px"
+            }
+          },
           "_anchor": "footer1-3",
           "_params": {
             "paddingTop": "4",
@@ -261,15 +324,7 @@
             "overlayOpacity": "0",
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
-              "font-size": "11px"
-            }
-          }
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         },
         {
           "_tags": [
@@ -291,6 +346,57 @@
           },
           "text": "",
           "icons": "    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/laurencevdperre/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Site Creator Title",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18-800x892.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/7-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15-800x745.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false,
+            "showBullets": false
+          },
+          "_anchor": "gallery1-h",
+          "articleLayout": false
         }
       ]
     }
