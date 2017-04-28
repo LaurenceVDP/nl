@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Weaving2017Tilburg .html",
+    "currentPage": "Weaving2017Tilburg.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -411,7 +411,7 @@
         }
       ]
     },
-    "Weaving2017Tilburg .html": {
+    "Weaving2017Tilburg.html": {
       "settings": {
         "main": true,
         "title": "Laurence Van de Perre",
