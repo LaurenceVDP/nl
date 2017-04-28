@@ -20,7 +20,7 @@
 #dropdown-menu-2btn-8 .nav .link,
 #dropdown-menu-2btn-8 .dropdown-item {
   font-size: 0.8em;
-  color: #ffffff;
+  color: #000000;
 }
 #dropdown-menu-2btn-8 .navbar,
 #dropdown-menu-2btn-8 .dropdown-menu {
@@ -32,7 +32,7 @@
   background: #f5f5f5;
 }
 #dropdown-menu-2btn-8 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #dropdown-menu-2btn-8 .btn {
   font-size: 13px;

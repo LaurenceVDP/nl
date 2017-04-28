@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Felt sculptures.html",
+    "currentPage": "Weaving2017Tilburg .html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -17,53 +17,11 @@
     "cookiesAlert": ""
   },
   "pages": {
-    "Weaving  2017 Tilburg .html": {
-      "settings": {
-        "main": true,
-        "title": "Laurence Van de Perre",
-        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 3
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bestand-tilburg-witte-achtergrond-posterize.gif",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": ""
-        }
-      ]
-    },
     "Homepage.html": {
       "settings": {
         "title": "Web Site Builder Title",
         "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -119,7 +77,7 @@
             },
             ".nav .link, .dropdown-item": {
               "font-size": "0.8em",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
               "background": "#ffffff"
@@ -128,7 +86,7 @@
               "background": "#f5f5f5"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".btn": {
               "font-size": "13px",
@@ -142,7 +100,7 @@
             "bgColor": "#ffffff",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "transparent": true,
             "sticky": false,
             "logo": false,
@@ -160,7 +118,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Textiel</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Tekeningen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Textiel</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Textiel</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Drawings.html\" aria-expanded=\"false\">Tekeningen</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Textiel</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -274,7 +232,7 @@
       "settings": {
         "title": "Site Maker Title",
         "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -354,7 +312,8 @@
     "Drawings.html": {
       "settings": {
         "title": "Site Creator Title",
-        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre "
+        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
+        "order": 4
       },
       "components": [
         {
@@ -402,10 +361,11 @@
         }
       ]
     },
-    "Felt sculptures.html": {
+    "Feltsculptures.html": {
       "settings": {
         "title": "Web Page Creator Title",
-        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre "
+        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
+        "order": 3
       },
       "components": [
         {
@@ -448,6 +408,48 @@
           },
           "_anchor": "gallery2-j",
           "articleLayout": true
+        }
+      ]
+    },
+    "Weaving2017Tilburg .html": {
+      "settings": {
+        "main": true,
+        "title": "Laurence Van de Perre",
+        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bestand-tilburg-witte-achtergrond-posterize.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
         }
       ]
     }
