@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Weaving2017Tilburg.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -190,10 +190,10 @@
                 "active": true
               }
             ],
-            "showText": false,
             "fullWidth": false,
             "noGutter": false,
-            "showBullets": true
+            "showBullets": true,
+            "showText": false
           },
           "_anchor": "gallery2-j",
           "articleLayout": true
