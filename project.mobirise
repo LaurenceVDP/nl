@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Weaving2017Tilburg.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -910,7 +910,7 @@
         }
       ]
     },
-    "CallmeIrenekortfilm.html": {
+    "film.html": {
       "settings": {
         "title": "CallmeIrene",
         "meta_descr": "Laurence Van de Perre, Laurence, Van de Perre, movie, fiction, Kato Bultueel, Bulteel, Kato",
