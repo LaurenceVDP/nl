@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
 
 
 #footer1-3 P {
@@ -7,10 +9,145 @@
   font-family: 'Slabo 27px', serif;
   font-size: 11px;
 }
-#content1-g P {
-  font-size: 12px;
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .navbar-brand a {
   font-family: 'Slabo 27px', serif;
-  color: #252525;
+  font-size: 14px;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
+}
+
+
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
+}
+
+
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
+}
+#content1-17 P {
+  color: #000000;
+  text-align: right;
+  font-size: 12px;
+}
+
+
+
+#content1-16 P {
+  color: #000000;
+  text-align: right;
+  font-size: 12px;
+}
+#content1-14 P {
+  color: #000000;
+  text-align: right;
+  font-size: 12px;
+}
+#image2-q SMALL {
+  color: #000000;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 11px;
+}
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
 }
 
 
@@ -18,6 +155,11 @@
 
 
 
+
+#header3-18 H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #header1-c .btn {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 16px;
@@ -68,4 +210,44 @@
   color: #000000;
   font-family: 'Slabo 27px', serif;
   font-size: 11px;
+}
+
+
+
+#content1-p P {
+  color: #000000;
+  text-align: center;
+}
+#footer1-n P {
+  color: #000000;
+  font-family: 'Slabo 27px', serif;
+  font-size: 11px;
+}
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 14px;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .btn {
+  font-size: 13px;
+  font-family: 'Slabo 27px', serif;
 }
