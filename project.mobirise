@@ -10,7 +10,7 @@
       "styling": {}
     },
     "favicon": "@PROJECT_PATH@/assets/images/18-1.jpg",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
@@ -579,58 +579,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_styles": {
-            "SMALL": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "11px"
-            }
-          },
-          "_anchor": "image2-q",
-          "_params": {
-            "outside": true,
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/shots-weefsel.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "content1-14",
-          "text": "<p>SHOTS &nbsp;TEXTIEL SINT-LUCAS&nbsp;<br>5 MEI &nbsp; &nbsp;2017</p>"
-        },
-        {
           "_inherit": "dropdown-menu",
           "_tags": [
             "Theme"
@@ -774,6 +722,73 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-1w",
+          "text": "<p><br></p><p>2016</p><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "image2-q",
+          "_params": {
+            "outside": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/shots-weefsel.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-14",
+          "text": "<p>SHOTS &nbsp;TEXTIEL SINT-LUCAS&nbsp;<br>5 MEI &nbsp; &nbsp;2017</p>"
         }
       ]
     },

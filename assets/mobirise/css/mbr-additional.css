@@ -117,17 +117,6 @@
 
 
 
-#image2-q SMALL {
-  color: #000000;
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-  font-size: 11px;
-}
-#content1-14 P {
-  color: #000000;
-  text-align: right;
-  font-size: 12px;
-}
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -155,6 +144,22 @@
 #dropdown-menu-2btn-8 .btn {
   font-size: 13px;
   font-family: 'Slabo 27px', serif;
+}
+#content1-1w P {
+  color: #000000;
+  text-align: right;
+  font-size: 12px;
+}
+#image2-q SMALL {
+  color: #000000;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 11px;
+}
+#content1-14 P {
+  color: #000000;
+  text-align: right;
+  font-size: 12px;
 }
 
 
