@@ -10,7 +10,7 @@
       "styling": {}
     },
     "favicon": "@PROJECT_PATH@/assets/images/18-1.jpg",
-    "uniqCompNum": 45,
+    "uniqCompNum": 68,
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
@@ -48,64 +48,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-r",
-          "_params": {
-            "outside": true,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-1.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-t",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/4-1.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
@@ -194,7 +136,80 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1a",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1u",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-1.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-1s",
+          "text": "<p><i>I am built up from experiences. I carry them with me, all the time.<br>Some can take them away. Take them all away, one by one.&nbsp;<br>They built up over the years. In layers, in different, connecting chapters. &nbsp;<br>Experiences grew around me. Made me grew.&nbsp;<br>Heavy ones, ugly ones, dirty ones, damaged ones.<br>Fragile, beautiful, delicate, valuable ones.<br>Blurry ones, imaginary ones. Dreams. Or lies.<br>You may unpeel the layers.<br>23 oktober 2017</i>&nbsp;</p><p>Berlijn (kunsthochschule Weissensee)</p><p><br></p>"
         }
       ]
     },
@@ -249,7 +264,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
@@ -283,7 +298,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -294,7 +309,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2016-11-27-13.51.02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/h.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "Slide 3",
@@ -304,7 +319,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/2016-11-27-13.51.02.jpg",
                 "contentAlign": "center",
                 "showTitle": false,
@@ -490,7 +505,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -506,41 +521,13 @@
           },
           "_anchor": "content1-17",
           "text": "<br><p>WOL EN KATOEN<br>2015</p>"
-        }
-      ]
-    },
-    "Weaving2017Tilburg.html": {
-      "settings": {
-        "main": true,
-        "title": "Laurence Van de Perre",
-        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre, weaving",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "content1-16",
-          "text": "<p>ONTWERP WEEFSEL <br>TILLBURG&nbsp;<br></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-12",
+          "_anchor": "image2-1l",
           "_params": {
             "outside": false,
             "showText": false
@@ -548,7 +535,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bestand-tilburg-witte-achtergrond-posterize-1.gif",
+              "src": "@PROJECT_PATH@/assets/images/23-web.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -575,14 +562,36 @@
               "font-size": "12px"
             }
           },
-          "_anchor": "content1-14",
-          "text": "<p>SHOTS &nbsp;TEXTIEL SINT-LUCAS&nbsp;</p>"
-        },
+          "_anchor": "content1-1o",
+          "text": "<br><p>ZEEFDRUK OP KLEDING<br>2015</p>"
+        }
+      ]
+    },
+    "Weaving2017Tilburg.html": {
+      "settings": {
+        "main": true,
+        "title": "Laurence Van de Perre",
+        "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre, weaving",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
         {
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "11px"
+            }
+          },
           "_anchor": "image2-q",
           "_params": {
             "outside": true,
@@ -604,16 +613,22 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "",
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
           "_styles": {
-            "SMALL": {
+            "P": {
               "color": "#000000",
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "11px"
+              "text-align": "right",
+              "font-size": "12px"
             }
-          }
+          },
+          "_anchor": "content1-14",
+          "text": "<p>SHOTS &nbsp;TEXTIEL SINT-LUCAS&nbsp;<br>5 MEI &nbsp; &nbsp;2017</p>"
         },
         {
           "_inherit": "dropdown-menu",
@@ -674,7 +689,91 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1j",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-web.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1k",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/weefsel.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1v",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-web-1.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
@@ -690,56 +789,47 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-18",
-          "title": "LAURENCE VAN DE PERRE",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "12px"
             }
-          }
+          },
+          "_anchor": "header3-18",
+          "title": "LAURENCE VAN DE PERRE",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "16px"
+          "_name": "image2",
+          "_anchor": "image2-1p",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "_anchor": "header1-c",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/4-web-1.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "title": "FULL-SCREEN HEADER",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Textiel</a> "
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_inherit": "dropdown-menu",
@@ -922,14 +1012,14 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-p",
-          "text": "<p>CALL ME IRENE&nbsp;</p>",
           "_styles": {
             "P": {
               "color": "#000000",
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "content1-p",
+          "text": "<p>CALL ME IRENE&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1056,6 +1146,143 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+        }
+      ]
+    },
+    "zeefdruks.html": {
+      "settings": {
+        "title": "Laurence Van de Perre",
+        "meta_descr": "Laurence Van de Perre, Laurence, Van de Perre, zeefdruk, textiel ontwerp, textiel"
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "footer1-1d",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": "0",
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "14px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "0.8em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1e",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/f.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1f",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-1g",
+          "text": "<p>ZEEFDRUK OP LINNEN<br>2016&nbsp;<br></p>"
         }
       ]
     }
