@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Paintings.html",
+    "currentPage": "Weaving2017Tilburg.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -308,7 +308,7 @@
             }
           },
           "_anchor": "header3-2p",
-          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;<i>PERRE</i></a>",
+          "title": "<a href=\"index.html\" class=\"text-black\"><i>LAURENCE VAN DE &nbsp;PERRE</i></a>",
           "_params": {
             "showMeta": false
           },
