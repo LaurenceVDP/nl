@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Weaving2017Tilburg.html",
+    "currentPage": "zeefdruks.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -10,7 +10,7 @@
       "styling": {}
     },
     "favicon": "@PROJECT_PATH@/assets/images/18-1.jpg",
-    "uniqCompNum": 69,
+    "uniqCompNum": 100,
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
@@ -24,6 +24,25 @@
         "order": 2
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2n",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>&nbsp;",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
         {
           "_name": "footer1",
           "_styles": {
@@ -136,7 +155,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -220,6 +239,25 @@
         "order": 4
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2p",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;<i>PERRE</i></a>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
         {
           "_inherit": "slider",
           "_afterNavbarItem": ".mbr-slider",
@@ -394,7 +432,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         }
       ]
     },
@@ -405,6 +443,25 @@
         "order": 3
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2o",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
         {
           "_inherit": "gallery1",
           "_tags": [
@@ -505,7 +562,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -579,6 +636,25 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2r",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
           "_inherit": "dropdown-menu",
           "_tags": [
             "Theme"
@@ -637,7 +713,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -831,7 +907,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/22.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -905,7 +981,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -1026,6 +1102,25 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2i",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content1",
           "_styles": {
             "P": {
@@ -1035,6 +1130,34 @@
           },
           "_anchor": "content1-p",
           "text": "<p>CALL ME IRENE&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-28",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/call-me-irene.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
@@ -1075,20 +1198,50 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18260713-10210327164387847-1388793945-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18260713-10210327164387847-1388793945-o.png",
+                "thumb": "@PROJECT_PATH@/assets/images/18260713-10210327164387847-1388793945-o-800x342.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18260713-10210327164387847-1388793945-o.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18260900-10210327164507850-102371794-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18260900-10210327164507850-102371794-o.png",
+                "thumb": "@PROJECT_PATH@/assets/images/18260900-10210327164507850-102371794-o-800x328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18260900-10210327164507850-102371794-o.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18297286-10210327176748156-1104046526-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18297286-10210327176748156-1104046526-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18260893-10210327164267844-137253481-o-800x359.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18260893-10210327164267844-137253481-o.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18296997-10210327164347846-259328803-o-800x359.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18296997-10210327164347846-259328803-o.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18519058-10210442880200670-521988819-o-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/18519058-10210442880200670-521988819-o.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18552880-10210442828399375-1719488865-o-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18552880-10210442828399375-1719488865-o.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18553760-10210442847399850-580080432-o-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/18553760-10210442847399850-580080432-o.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18553763-10210442835599555-962085926-o-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/18553763-10210442835599555-962085926-o.png",
                 "active": true
               }
             ],
@@ -1160,7 +1313,22 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"true\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "content1-22",
+          "text": "<p>De kortfilm geeft een kijk weer op hoe mensen eindeloos op zoek kunnen gaan naar de onvervalste versie van zichzelf. <br>Een aftastend rollenspel waarin elk soort sociale verhouding intervenieert.<br>We ontwerpen elk een identiteit die ons voldoening brengt en deugdelijk lijkt. Maar hoe onderbouwd is deze ‘ik’ in wezen? <br>Hebben we onszelf eigenhandig verwezenlijkt? En zelfs als dat zo zou zijn, duid dat dan niet op een creatie? <br>Mogelijk bevat onze verbeelding nog meer realiteit dan de persoon waar we ons daadwerkelijk voor portretteren. <br>Toch lijkt het alsof je als individu aspecten van jezelf moet verstellen om convenabel te zijn in bepaalde situaties. <br>Zeker in sociale gelegenheden. We willen graag gezien worden of simpeler  gewoon gezien worden. <br>Er bestaan hokjes en randjes. Alles om de richtlijnen van een voortreffelijk levensverloop zo afgetekend mogelijk te maken.&nbsp;<br><br></p><p>‘Call me Irene’ speelt zich af in een erotische peepshow.&nbsp;</p><p>Het hoofdpersonage Irene start net als erotische danseres. Ze botst al snel met het idee dat ze heel veranderlijk kan zijn. <br>En dat elke klant andere verwachtingen van haar heeft. In haar booth probeert ze het voorstellingsvermogen van de klanten te vervullen. <br>De talloze vraag naar transformatie kost haar moeite. Het lijkt of ze vervaagt in de imaginatie van anderen. <br>Ze voelt zich afgewezen en raakt steeds meer verstrikt in haar eigen creatie.&nbsp;</p><p><br></p><p>Later in de schets krijgt de kijker het decor als effectief decor te zien. Dit om duidelijk te maken dat ze deel uitmaken van de peepshow. <br>Dat ook zij deelnemen aan het rollenspel. De peepshow dient hier als canvas voor een breed schouwtoneel. Het decor ondersteund de denkwereld actief en is evenzeer creatie van verbeelding. De realiteit waarin de kijker denkt zich te bevinden wordt verbroken door afstandelijkheid met het decor.</p>"
         }
       ]
     },
@@ -1170,6 +1338,25 @@
         "meta_descr": "Laurence Van de Perre, Laurence, Van de Perre, zeefdruk, textiel ontwerp, textiel"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header3-2q",
+          "title": "<a href=\"index.html\" class=\"text-black\"><i>LAURENCE VAN DE &nbsp;PERRE</i></a>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
         {
           "_name": "footer1",
           "_styles": {
@@ -1254,7 +1441,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laurence Van de Perre&nbsp;</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CallmeIrenekortfilm.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">WERK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Feltsculptures.html\">sculpturen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Drawings.html\" aria-expanded=\"false\">tekeningen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">schilderijen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Weaving2017Tilburg.html\">weefsels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"film.html\">film</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-link-outline btn-link\" href=\"https://mobirise.com/\">Textile design</a></li>"
         },
         {
           "_tags": [
@@ -1269,7 +1456,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-web-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1283,21 +1470,6 @@
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "text-align": "right",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "content1-1g",
-          "text": "<p>ZEEFDRUK OP LINNEN<br>2016&nbsp;<br></p>"
         }
       ]
     }

@@ -1,10 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
 
+
+#header3-2n H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #footer1-3 P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
@@ -46,6 +51,11 @@
 }
 
 
+
+#header3-2p H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -76,6 +86,11 @@
 }
 
 
+
+#header3-2o H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -117,6 +132,11 @@
 
 
 
+
+#header3-2r H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -221,6 +241,11 @@
 
 
 
+
+#header3-2i H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #content1-p P {
   color: #000000;
   text-align: center;
@@ -258,9 +283,19 @@
   font-size: 13px;
   font-family: 'Slabo 27px', serif;
 }
+#content1-22 P {
+  color: #000000;
+  text-align: left;
+  font-size: 12px;
+}
 
 
 
+
+#header3-2q H3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 12px;
+}
 #footer1-1d P {
   color: #000000;
   font-family: 'Slabo 27px', serif;
@@ -293,9 +328,4 @@
 #dropdown-menu-2btn-1e .btn {
   font-size: 13px;
   font-family: 'Slabo 27px', serif;
-}
-#content1-1g P {
-  color: #000000;
-  text-align: right;
-  font-size: 12px;
 }
