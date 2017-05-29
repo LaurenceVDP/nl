@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "zeefdruks.html",
+    "currentPage": "Paintings.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -10,7 +10,7 @@
       "styling": {}
     },
     "favicon": "@PROJECT_PATH@/assets/images/18-1.jpg",
-    "uniqCompNum": 100,
+    "uniqCompNum": 102,
     "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "google-analytics": "",
@@ -229,6 +229,62 @@
           },
           "_anchor": "content1-1s",
           "text": "<p><i>I am built up from experiences. I carry them with me, all the time.<br>Some can take them away. Take them all away, one by one.&nbsp;<br>They built up over the years. In layers, in different, connecting chapters. &nbsp;<br>Experiences grew around me. Made me grew.&nbsp;<br>Heavy ones, ugly ones, dirty ones, damaged ones.<br>Fragile, beautiful, delicate, valuable ones.<br>Blurry ones, imaginary ones. Dreams. Or lies.<br>You may unpeel the layers.<br>23 oktober 2017</i>&nbsp;</p><p>Berlijn (kunsthochschule Weissensee)</p><p><br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2s",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2017-02-09-18.10.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2t",
+          "_params": {
+            "outside": false,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2017-02-09-18.10.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
