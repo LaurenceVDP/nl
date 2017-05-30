@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "film.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -280,7 +280,7 @@
             }
           },
           "_anchor": "header3-2p",
-          "title": "<a href=\"index.html\" class=\"text-black\"><i>LAURENCE VAN DE &nbsp;PERRE</i></a>",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>",
           "_params": {
             "showMeta": false
           },
@@ -484,7 +484,7 @@
             }
           },
           "_anchor": "header3-2o",
-          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>",
           "_params": {
             "showMeta": false
           },
@@ -676,7 +676,7 @@
             }
           },
           "_anchor": "header3-2r",
-          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>",
           "_params": {
             "showMeta": false
           },
@@ -916,7 +916,7 @@
             }
           },
           "_anchor": "header3-18",
-          "title": "<i>LAURENCE VAN DE PERRE&nbsp;</i>",
+          "title": "LAURENCE VAN DE PERRE",
           "_params": {
             "showMeta": false
           },
@@ -1379,7 +1379,7 @@
             }
           },
           "_anchor": "header3-2q",
-          "title": "<a href=\"index.html\" class=\"text-black\"><i>LAURENCE VAN DE &nbsp;PERRE</i></a>",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>",
           "_params": {
             "showMeta": false
           },
