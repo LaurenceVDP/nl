@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "zeefdruks.html",
+    "currentPage": "index.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -916,7 +916,7 @@
             }
           },
           "_anchor": "header3-18",
-          "title": "LAURENCE VAN DE PERRE",
+          "title": "<i>LAURENCE VAN DE PERRE&nbsp;</i>",
           "_params": {
             "showMeta": false
           },
