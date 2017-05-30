@@ -37,7 +37,7 @@
             }
           },
           "_anchor": "header3-2n",
-          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>&nbsp;",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>&nbsp;",
           "_params": {
             "showMeta": false
           },
@@ -262,7 +262,7 @@
     },
     "Drawings.html": {
       "settings": {
-        "title": "Site Creator Title",
+        "title": "Laurence Van de Perre",
         "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre, drawing",
         "order": 4
       },
@@ -466,7 +466,7 @@
     },
     "Feltsculptures.html": {
       "settings": {
-        "title": "Web Page Creator Title",
+        "title": "Laurence Van de Perre",
         "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre, textile, sculpture",
         "order": 3
       },
@@ -756,7 +756,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3-web.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -784,7 +784,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/weefsel.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -898,7 +898,7 @@
     },
     "index.html": {
       "settings": {
-        "title": "Homepage Laurence Van de Perre",
+        "title": "Laurence Van de Perre",
         "meta_descr": "copyright, Laurence Van de Perre, Laurence, Van de Perre ",
         "order": 6
       },
@@ -1121,7 +1121,7 @@
     },
     "film.html": {
       "settings": {
-        "title": "CallmeIrene",
+        "title": "Laurence Van de Perre",
         "meta_descr": "Laurence Van de Perre, Laurence, Van de Perre, movie, fiction, Kato Bultueel, Bulteel, Kato",
         "order": 1
       },
@@ -1139,7 +1139,7 @@
             }
           },
           "_anchor": "header3-2i",
-          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE &nbsp;PERRE</a>",
+          "title": "<a href=\"index.html\" class=\"text-black\">LAURENCE VAN DE PERRE</a>",
           "_params": {
             "showMeta": false
           },
@@ -1250,9 +1250,9 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18519058-10210442880200670-521988819-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18519058-10210442880200670-521988819-o.png",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/18575057-10210442854080017-763712374-o-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/18575057-10210442854080017-763712374-o.png",
+                "active": true
               },
               {
                 "caption": "Type caption here",
@@ -1268,9 +1268,9 @@
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18553763-10210442835599555-962085926-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18553763-10210442835599555-962085926-o.png",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/18516828-10210442846119818-2019093484-o-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/18516828-10210442846119818-2019093484-o.png",
+                "active": false
               }
             ],
             "showText": false,
