@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Paintings.html",
+    "currentPage": "film.html",
     "versionFirst": "2.10",
     "versionPublish": "3.12.1",
     "name": "Laurence Van de Perre",
@@ -748,62 +748,6 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-1j",
-          "_params": {
-            "outside": false,
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-1.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1k",
-          "_params": {
-            "outside": false,
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/img-2.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
           "_anchor": "image2-1v",
           "_params": {
             "outside": false,
@@ -1246,31 +1190,7 @@
                 "caption": "Type caption here",
                 "thumb": "@PROJECT_PATH@/assets/images/18296997-10210327164347846-259328803-o-800x359.jpg",
                 "image": "@PROJECT_PATH@/assets/images/18296997-10210327164347846-259328803-o.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18575057-10210442854080017-763712374-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18575057-10210442854080017-763712374-o.png",
                 "active": true
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18552880-10210442828399375-1719488865-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18552880-10210442828399375-1719488865-o.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18553760-10210442847399850-580080432-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18553760-10210442847399850-580080432-o.png",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/18516828-10210442846119818-2019093484-o-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/18516828-10210442846119818-2019093484-o.png",
-                "active": false
               }
             ],
             "showText": false,
